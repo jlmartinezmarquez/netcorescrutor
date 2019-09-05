@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi.csproj",
+        "projectName": "IntegratedIocContainerApi",
+        "projectPath": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi.csproj",
+        "packagesPath": "C:\\Users\\jlmartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\IntegratedIocContainerApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jlmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\Services.csproj": {
+                "projectPath": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\jlmartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Jose\\NetCoreApi\\IntegratedIocContainerApi\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jlmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\IntegratedIocContainerApi.deps.json
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\IntegratedIocContainerApi.runtimeconfig.json
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\IntegratedIocContainerApi.runtimeconfig.dev.json
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\IntegratedIocContainerApi.dll
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.csprojAssemblyReference.cache
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.csproj.CoreCompileInputs.cache
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.RazorAssemblyInfo.cache
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.RazorAssemblyInfo.cs
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.AssemblyInfoInputs.cache
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.AssemblyInfo.cs
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.RazorTargetAssemblyInfo.cache
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\IntegratedIocContainerApi.pdb
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\Services.dll
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\bin\Debug\netcoreapp2.2\Services.pdb
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.csproj.CopyComplete
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.dll
+C:\Jose\NetCoreApi\IntegratedIocContainerApi\IntegratedIocContainerApi\obj\Debug\netcoreapp2.2\IntegratedIocContainerApi.pdb
